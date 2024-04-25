@@ -1,0 +1,9 @@
+#btn-card{
+    
+    background-color: #faca53;
+    transition: 0.5s;
+}
+#btn-card:hover{
+    background-color: #000000;
+    color: white;  
+}
